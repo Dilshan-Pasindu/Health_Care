@@ -1,8 +1,0 @@
-com/group/medical/model/InsurancePayment.class
-com/group/medical/MedicalAppointmentSystemApplication.class
-com/group/medical/model/Invoice.class
-com/group/medical/service/BillingService.class
-com/group/medical/util/FileUtil.class
-com/group/medical/model/DirectPayment.class
-com/group/medical/model/Payment.class
-com/group/medical/controller/BillingController.class
