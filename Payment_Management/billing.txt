@@ -1,9 +1,111 @@
+============================================================
+  INVOICE RECORD
+============================================================
+  Invoice ID     : INV-1777708720325
+  Patient ID     : 1313
+  Patient Name   : njk
+  Appointment ID : 1234
+  Doctor Name    : Hii
+  Amount (LKR)   : 2000.00
+  Payment Type   : INSURANCE
+  Status         : PAID
+  Generated Date : 02-May-2026 13:28:40
+============================================================
+
 INV-1777708720325|1313|njk|1234|Hii|2000.0|PAID|2026-05-02T13:28:40.325675|INSURANCE
+
+============================================================
+  INVOICE RECORD
+============================================================
+  Invoice ID     : INV-1777739218905
+  Patient ID     : dsax
+  Patient Name   : 21
+  Appointment ID : 21ws
+  Doctor Name    : sqaZ
+  Amount (LKR)   : 213.00
+  Payment Type   : DIRECT
+  Status         : PAID
+  Generated Date : 02-May-2026 21:56:58
+============================================================
+
 INV-1777739218905|dsax|21|21ws|sqaZ|213.0|PAID|2026-05-02T21:56:58.906004|DIRECT
+
+============================================================
+  INVOICE RECORD
+============================================================
+  Invoice ID     : INV-1777739848853
+  Patient ID     : ewdsa
+  Patient Name   : wqdsa
+  Appointment ID : sda
+  Doctor Name    : dsax
+  Amount (LKR)   : 12.00
+  Payment Type   : DIRECT
+  Status         : PAID
+  Generated Date : 02-May-2026 22:07:28
+============================================================
+
 INV-1777739848853|ewdsa|wqdsa|sda|dsax|12.0|PAID|2026-05-02T22:07:28.854201|DIRECT
+
+============================================================
+  INVOICE RECORD
+============================================================
+  Invoice ID     : INV-1777740453150
+  Patient ID     : sdxz
+  Patient Name   : sxz
+  Appointment ID : dsa
+  Doctor Name    : wdas
+  Amount (LKR)   : 23.00
+  Payment Type   : DIRECT
+  Status         : PAID
+  Generated Date : 02-May-2026 22:17:33
+============================================================
+
 INV-1777740453150|sdxz|sxz|dsa|wdas|23.0|PAID|2026-05-02T22:17:33.150791|DIRECT
+
+============================================================
+  INVOICE RECORD
+============================================================
+  Invoice ID     : INV-1777740655345
+  Patient ID     : sda
+  Patient Name   : sad
+  Appointment ID : ews
+  Doctor Name    : sda
+  Amount (LKR)   : 32.00
+  Payment Type   : INSURANCE
+  Status         : PAID
+  Generated Date : 02-May-2026 22:20:55
+============================================================
+
 INV-1777740655345|sda|sad|ews|sda|32.0|PAID|2026-05-02T22:20:55.345299|INSURANCE
-INV-1777741479495|ewqdsa|asd|dsads|DAS|321.0|PAID|2026-05-02T22:34:39.495774|DIRECT
-INV-1777741599170|qrewd|ewds|ds|wdas|32.0|PAID|2026-05-02T22:36:39.171097|DIRECT
-INV-1777741649145|dsc|erwds|dscxz|dsc|32.0|PAID|2026-05-02T22:37:29.145188|DIRECT
+
+============================================================
+  INVOICE RECORD
+============================================================
+  Invoice ID     : INV-1777896303806
+  Patient ID     : 1313
+  Patient Name   : ed
+  Appointment ID : edws
+  Doctor Name    : dews
+  Amount (LKR)   : 213.00
+  Payment Type   : INSURANCE
+  Status         : PAID
+  Generated Date : 04-May-2026 17:35:03
+============================================================
+
 INV-1777896303806|1313|ed|edws|dews|213.0|PAID|2026-05-04T17:35:03.807101|INSURANCE
+
+============================================================
+  INVOICE RECORD
+============================================================
+  Invoice ID     : INV-1778000489697
+  Patient ID     : 4ref
+  Patient Name   : ewasd
+  Appointment ID : ewads
+  Doctor Name    : 3ewd
+  Amount (LKR)   : 32.00
+  Payment Type   : DIRECT
+  Status         : PAID
+  Generated Date : 05-May-2026 22:31:29
+============================================================
+
+INV-1778000489697|4ref|ewasd|ewads|3ewd|32.0|PAID|2026-05-05T22:31:29.697924|DIRECT
